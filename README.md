@@ -246,6 +246,10 @@ Install `pytest`, then run:
 python3 -m pytest
 ```
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
+
 ## Repository hygiene
 
 Large or machine-specific artifacts stay outside the public source commit:
